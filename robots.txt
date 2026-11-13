@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /_vdata/
+Sitemap: https://granadatoursandmore.com/sitemap.xml
